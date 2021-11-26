@@ -2,5 +2,6 @@
 
 This repository contains solutions of two tutorials (1 & 2) consisting of numerical problems.
 
-Interactive notebooks here:
-[https://mybinder.org/v2/gh/rshampa/CH1101.tut/HEAD](https://mybinder.org/v2/gh/rshampa/CH1101.tut/HEAD)
+Notebooks can be seen by Jupyter nbviewer here:
+[https://nbviewer.org/github/rshampa/CH1101.tut/blob/main/notebooks/tutorial1.ipynb](https://https://nbviewer.org/github/rshampa/CH1101.tut/blob/main/notebooks/tutorial1.ipynb)
+[https://nbviewer.org/github/rshampa/CH1101.tut/blob/main/notebooks/tutorial2.ipynb](https://https://nbviewer.org/github/rshampa/CH1101.tut/blob/main/notebooks/tutorial2.ipynb)
