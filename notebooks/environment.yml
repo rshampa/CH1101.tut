@@ -1,0 +1,9 @@
+name: py38
+channels:
+  - conda-forge
+  - omnia
+  - defaults
+dependencies:
+  - python=3.8.2
+  - jupyterlab
+prefix: /Users/shampa/opt/anaconda3/envs/py38
