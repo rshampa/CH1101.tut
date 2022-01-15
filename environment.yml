@@ -4,6 +4,6 @@ channels:
   - omnia
   - defaults
 dependencies:
+  - numpy
   - matplotlib
   - scipy
-  - numpy
