@@ -1,0 +1,16 @@
+name: py38
+channels:
+  - conda-forge
+  - omnia
+  - defaults
+dependencies:
+  - python=3.7.6=cpython_h1fd5dd1_6
+  - jupyter==1.0.0
+  - jupyter-client==6.1.6
+  - jupyter-console==6.1.0
+  - jupyter-core==4.6.3
+  - markdown==2.6.8
+  - notebook==6.0.3
+  - numpy==1.21.2
+  - scipy=1.4.1=py37hce1b9e5_3
+  - matplotlib-base=3.2.1=py37hddda452_0
