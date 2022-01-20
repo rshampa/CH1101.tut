@@ -7,4 +7,4 @@ Notebooks can be seen by Jupyter nbviewer here:</br>
 [https://nbviewer.org/github/rshampa/CH1101.tut/blob/main/notebooks/tutorial2.ipynb](https://nbviewer.org/github/rshampa/CH1101.tut/blob/main/notebooks/tutorial2.ipynb)
 
 For interactive orbital plotter, go here:</br>
-[https://hub.gke2.mybinder.org/user/rshampa-ch1101.tut-fuf8chd8/lab/tree/notebooks/orbital_plotter_sphr.ipynb](https://hub.gke2.mybinder.org/user/rshampa-ch1101.tut-fuf8chd8/lab/tree/notebooks/orbital_plotter_sphr.ipynb)
+[https://hub.gke2.mybinder.org/user/rshampa-ch1101.tut-wmgw6m49/doc/workspaces/auto-L/tree/notebooks/orbital_plotter_sphr.ipynb](https://hub.gke2.mybinder.org/user/rshampa-ch1101.tut-wmgw6m49/doc/workspaces/auto-L/tree/notebooks/orbital_plotter_sphr.ipynb)
